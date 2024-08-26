@@ -9,4 +9,3 @@ The Feedback App is a simple React page that provides feedback on a website's pr
 - Create Responsive UI for project
 - Website built with React
 - Provides feedback on a website's product(s) or service(s)
-# feedback_app
