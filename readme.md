@@ -2,7 +2,7 @@
 
 The Feedback App is a simple React page that provides feedback on a website's product(s) or service(s).
 
-![feedback screenshot](./README_SCREENSHOTS/FEEDBACK_APP.png)
+![feedback screenshot](public/FEEDBACK_APP.png)
 
 ## Project Specifications
 
